@@ -14,7 +14,7 @@ function App() {
             <Contact img="/images/mr-whiskerson.png" name="Mr. Whiskerson" phone="(212) 555-1234" email="mr.whiskaz@catnap.meow" />
             <Contact img="/images/fluffykins.png" name="Fluffykins" phone="(212) 555-2345" email="fluff@me.com" />
             <Contact img="/images/felix.png" name="Felix" phone="(212) 555-4567" email="felix@catnap.com" />
-            <Contact img="/images/charlie.png" name="Charlie" phone="(212) 555-6789" email="charlie@me.com" />
+            <Contact img="/images/pumpkin.png" name="Charlie" phone="(212) 555-6789" email="charlie@me.com" />
         </div>
     );
 }
